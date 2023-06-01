@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uma26madasu
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I've completed my master's in cybersecurity
 - 💞️ I’m looking to collaborate on API and security
 - 📫 How to reach me ...uma26madasu@gmail.com
 
